@@ -13,7 +13,10 @@ Implement the Banker’s algorithm to answer the following question： Is the sy
 
 # Compilation Instructions
 In order to run this code, please clone this repository and run this code:
-'''
+```
 g++ -o banker banker.cpp
 ./banker
-'''
+```
+
+# Example output
+The output should look something like this:
