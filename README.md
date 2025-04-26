@@ -12,7 +12,7 @@ Considering a system with five processes P0 through P4 and three resources of ty
 Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
 
 # Compilation Instructions
-In order to run this code, please clone this repository and run this code:
+In order to run this code, please clone this repository and input these instructions:
 ```
 g++ -o banker banker.cpp
 ./banker
