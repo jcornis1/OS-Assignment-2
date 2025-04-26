@@ -1,4 +1,4 @@
-# OS-Assignment-2
+# Operating-Systems-Assignment-2
 This is my submission for Assignment #2 for Operating Systems
 
 Here is the summary of the instructions:
@@ -11,3 +11,4 @@ Considering a system with five processes P0 through P4 and three resources of ty
 
 Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
 
+# Compilation Instructions
